@@ -1,0 +1,6 @@
+groq==0.16.0
+gtts==2.5.4
+elevenlabs==1.50.6
+speechrecognition==3.14.1
+pydub==0.25.1
+gradio
