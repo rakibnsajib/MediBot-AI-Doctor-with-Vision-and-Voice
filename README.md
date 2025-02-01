@@ -29,8 +29,8 @@ Below is a visual representation of how **MediBot** processes user inputs and ge
 ## Installation & Setup
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/MediBot.git
-cd MediBot
+git clone https://github.com/rakibnsajib/MediBot-AI-Doctor-with-Vision-and-Voice.git
+cd MediBot-AI-Doctor-with-Vision-and-Voice
 ```
 
 ### 2. Install Dependencies
